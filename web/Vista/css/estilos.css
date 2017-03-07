@@ -24,9 +24,10 @@ and open the template in the editor.
 }
 
 body{
-    background-color: #e3eff9;
+    background-color: black;
     margin:0;
     background-size:auto;
+    color: green;
 }
 
 table, td, tr{
