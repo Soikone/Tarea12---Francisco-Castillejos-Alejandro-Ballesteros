@@ -47,6 +47,12 @@ img{
 button{
     display: block;
     margin: 0 auto;
+    text-align:left;
+	text-decoration: none;
+	font-family: 'Helvetica Neue', Helvetica, sans-serif;
+	display:inline-block;
+	color: #FFF;
+	background: #3498DB;
 }
 
 #censoA{
